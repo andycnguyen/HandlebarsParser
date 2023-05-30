@@ -1,1 +1,2 @@
 # HandlebarsParser
+A parser for the templating language [Handlebars](https://handlebarsjs.com/), written for .NET. I used Tyrrrz's [guide](https://tyrrrz.me/blog/monadic-parser-combinators) on monaic parser combinators as a starting point. My original motivation was to improve upon a crude Handlebars template editor I wrote for managing our notifications system at [UW Credit Union](https://uwcu.org/).
